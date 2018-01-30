@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mymongo": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "loopback1",
+    "name": "mymongo",
+    "connector": "mongodb"
+  }
+}
